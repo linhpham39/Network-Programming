@@ -1,0 +1,1 @@
+all: lab02.c	gcc lab02.c -o resolver
